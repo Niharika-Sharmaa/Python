@@ -101,7 +101,7 @@ The repository is organized in a structured numbering format:
 ### 1. Clone the repository
 
 ```
-git clone <https://github.com/niharika7206/Python.git>
+git clone <https://github.com/Niharika-Sharmaa/Python.git>
 ```
 
 ### 2. Navigate to the folder
