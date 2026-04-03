@@ -22,7 +22,7 @@ Each program is structured with clarity, proper naming conventions, and practica
 
 ## 🧠 Key Highlights
 
-* ✔ 48 Python Programs
+* ✔ 45+ Python Programs
 * ✔ Beginner → Intermediate → Advanced coverage
 * ✔ Real-world inspired projects
 * ✔ Clean and readable code structure
@@ -101,7 +101,7 @@ The repository is organized in a structured numbering format:
 ### 1. Clone the repository
 
 ```
-git clone <your-repo-link>
+git clone <https://github.com/niharika7206/Python.git>
 ```
 
 ### 2. Navigate to the folder
@@ -135,12 +135,6 @@ This repository serves as:
 * Integrating web development (Flask/Streamlit)
 * More advanced algorithm implementations
 * API-based projects
-
----
-
-## 🤝 Contribution
-
-This is a personal repository, but suggestions and improvements are always welcome!
 
 ---
 
