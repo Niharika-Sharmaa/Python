@@ -96,28 +96,6 @@ The repository is organized in a structured numbering format:
 
 ---
 
-## ▶️ How to Run
-
-### 1. Clone the repository
-
-```
-git clone <https://github.com/Niharika-Sharmaa/Python.git>
-```
-
-### 2. Navigate to the folder
-
-```
-cd <repo-folder>
-```
-
-### 3. Run any file
-
-```
-python filename.py
-```
-
----
-
 ## 🎯 Purpose
 
 This repository serves as:
